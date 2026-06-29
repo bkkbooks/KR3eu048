@@ -1,0 +1,179 @@
+canonical_identifier: bkk:krp/KR3eu048/v1
+canonical_location: https://kanripo.org/bkk/KR3eu048/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傷寒用藥研究
+  identifiers:
+    krp: KR3eu048
+  tags:
+    kr-categories: KR3eu
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu048.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3eu048_001.yaml, hash: 'sha256:0a5e214f745b73c364f5d23550957cf8f43d7c35bf4ae72979a5ca76590db7ac'}
+  - {seq: 3, filename: KR3eu048_003.yaml, hash: 'sha256:3405fd78f8ab06e6fa170d73e4a4913db4c9ae509216851957de6e9fec17134c'}
+  - {seq: 0, filename: KR3eu048_000.yaml, hash: 'sha256:6ba8e7f8281d491a184ff95ffc580799b90636abd239769861d187ad157714aa'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3eu048_001.markers.yaml, hash: 'sha256:10c2e0b9a72a610c87283ec620594aadc74d62b1c5a001cb5009c015b5d51067'}
+  - {seq: 3, role: markers, filename: assets/KR3eu048_003.markers.yaml, hash: 'sha256:275d6f2eefccd27bf61764873e38c932e3adc9bbc77d3b9d7c04e357c9786693'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3eu048_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 6505
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eu048_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 1068
+  label: 總論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu048_jc_001-d2d3
+    span:
+    - body
+    - 1068
+    - 2022
+  label: 其二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu048_jc_001-d2d4
+    span:
+    - body
+    - 2022
+    - 2643
+  label: 其三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu048_jc_001-d2d5
+    span:
+    - body
+    - 2643
+    - 3149
+  label: 其四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu048_jc_001-d2d6
+    span:
+    - body
+    - 3149
+    - 3511
+  label: 其五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu048_jc_001-d2d7
+    span:
+    - body
+    - 3511
+    - 3861
+  label: 氣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu048_jc_001-d2d8
+    span:
+    - body
+    - 3861
+    - 4261
+  label: 正邪
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu048_jc_001-d2d9
+    span:
+    - body
+    - 4261
+    - 4485
+  label: 虛實
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu048_jc_001-d2d10
+    span:
+    - body
+    - 4485
+    - 4667
+  label: 陰陽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu048_jc_001-d2d11
+    span:
+    - body
+    - 4667
+    - 4928
+  label: 寒熱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu048_jc_001-d2d12
+    span:
+    - body
+    - 4928
+    - 5628
+  label: 虛實間
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu048_jc_001-d2d13
+    span:
+    - body
+    - 5628
+    - 6505
+  label: 方位
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu048_jc_003-d3.h1s1
+    span:
+    - body
+    - 0
+    - 7047
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eu048_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 126
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:68a937c3b3aa022722acec71b234af46c07f7ca4cb2d00991b0c69ba3729303d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3eu048/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 跋詩云有物有則蓋體用之謂矣乎夫有物必有則有體必有用體用立矣而後事成也古醫之術其要亦在於此而李唐以來或不本之後學之徒誤其所方先生嘗病之也故有是舉乃其辨之精其論之審凡誠意於古者讀之必將有即得焉直之不敏與亦有聞因言其所以弘之以附其末丁巳春三月南越醫員妻木直撰
+  hash: sha256:f42a80f2a7f79ae3e5328bfcaa048c235d8b3e9fb8113d1010fdc9414539a6fc
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eu048_jc_000-d4.h1s1}
+metadata:
+  title: 傷寒用藥研究
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu048.xml
+hash: sha256:6ba8e7f8281d491a184ff95ffc580799b90636abd239769861d187ad157714aa
